@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smplytechnology</title>
+    <title>smplytechnology</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -26,7 +26,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to Smplytechnology</h1>
+        <h1>Welcome to my simple website</h1>
         <p>This is a simple website hosted on GitHub Pages.</p>
     </div>
 </body>
