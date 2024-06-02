@@ -1,3 +1,3 @@
-function displayMessage() {
-    document.getElementById('message').textContent = 'Hello, World!';
-}
+document.getElementById('myButton').addEventListener('click', function() {
+    alert('Button clicked!');
+});
